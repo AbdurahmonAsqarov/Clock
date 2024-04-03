@@ -12,4 +12,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background: #2f363e;
+}
+.container{
+    position: relative;
+}
+.clock{
+    position: relative;
+    width: 450px;
+    height: 450px;
+    background: #2f363e;
 }
